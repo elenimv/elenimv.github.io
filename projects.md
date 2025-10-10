@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Personal Projects
 ---
 
 Here are more detailed descriptions of the projects I have been involved in so far, from most to least recent.
