@@ -21,7 +21,8 @@ author: Eleni Voudouris
 
 navbar-links:
   About Me: "aboutme"
-  Author's home: "https://elenimv.github.io/"
+  Projects: "projects"
+  Home: "https://elenimv.github.io/"
 
 ################
 # --- Logo --- #
