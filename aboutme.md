@@ -2,6 +2,7 @@
 layout: page
 title: About me
 ---
+<img src="/assets/img/Eleni_headshot.png" alt="Photo of me" style="width: 400px; border-radius: 10px; display: block; margin: 0 auto;" />
 
 My name is Eleni Voudouris. I am currently a junior studying Computer Science with a minor in Business at the University of Illinois at Urbana Champaign.
 
